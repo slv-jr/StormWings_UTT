@@ -10,11 +10,11 @@
 
 | Document | Contenu | Quand le lire |
 |----------|---------|---------------|
-| [`docs/DEPLOYMENT.md`](./docs/DEPLOYMENT.md) | **Guide complet J-7 → J0**, ordre exact des opérations, commandes à copier-coller | À l'ouverture du kit, étape par étape |
-| [`docs/CABLAGE.md`](./docs/CABLAGE.md) | Schéma détaillé de toutes les connexions (BEC, RC, TELEM2, servos, LoRa) | Pendant le câblage de chaque drone |
-| [`docs/ARDUPILOT_PARAMS.md`](./docs/ARDUPILOT_PARAMS.md) | Explication ligne par ligne du fichier `ardupilot_params.txt` | Pendant la config Mission Planner |
-| [`docs/ardupilot_params.txt`](./docs/ardupilot_params.txt) | Fichier de paramètres à charger dans Mission Planner | Cube Orange+ neuf à configurer |
-| [`docs/CHECKLIST_J0.md`](./docs/CHECKLIST_J0.md) | **Checklist imprimable** course du 9 mai | À garder sur soi le jour J |
+| [`docs/DEPLOYMENT.md`](./V2.0/docs/DEPLOYMENT.md) | **Guide complet J-7 → J0**, ordre exact des opérations, commandes à copier-coller | À l'ouverture du kit, étape par étape |
+| [`docs/CABLAGE.md`](./V2.0/docs/CABLAGE.md) | Schéma détaillé de toutes les connexions (BEC, RC, TELEM2, servos, LoRa) | Pendant le câblage de chaque drone |
+| [`docs/ARDUPILOT_PARAMS.md`](./V2.0/docs/ARDUPILOT_PARAMS.md) | Explication ligne par ligne du fichier `ardupilot_params.txt` | Pendant la config Mission Planner |
+| [`docs/ardupilot_params.txt`](./V2.0/docs/ardupilot_params.txt) | Fichier de paramètres à charger dans Mission Planner | Cube Orange+ neuf à configurer |
+| [`docs/CHECKLIST_J0.md`](./V2.0/docs/CHECKLIST_J0.md) | **Checklist imprimable** course du 9 mai | À garder sur soi le jour J |
 
 ---
 
